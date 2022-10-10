@@ -1,12 +1,12 @@
 ---
-title: Tutorial de Visual Studio Code
+title: Edición filológica digital con Visual Studio Code
 author: Gabriel Calarco y Carles Márquez Molins
 date: 2022
 layout: default
 lang: es
 ---
 
-# Tutorial de Visual Studio Code
+# Edición filológica digital con Visual Studio Code
 
 # 1. Textos digitales y editores de código
 
